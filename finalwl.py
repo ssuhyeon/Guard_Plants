@@ -88,7 +88,7 @@ def led(update: Update, context: CallbackContext) -> None:
     elif color == '빨강':
         x_y = [0.6,0.3]
 
-    # LED 꺼지는 시간을 직접 입력하지 않고, 지속기간 값으로 꺼지는 시간을 처리해주기 위한 코드 
+    # 입력받은 지속시간 값을 통해 예약시간으로부터 LED 꺼지는 시간을 처리해주는 코드 
     st_before = start_time[0:10]
     st_after = start_time[11:]
     
@@ -119,7 +119,7 @@ def main():
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
     # Post version 12 this will no longer be necessary
-    updater = Updater("1450605673:AAEKX-wS9joalPYpenKz6BJW8Ii9Qjy1pW0", use_context=True)
+    updater = Updater("MY TOKEN", use_context=True)
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
