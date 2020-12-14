@@ -70,4 +70,9 @@
   
   + LED 관련 참고
   
+     https://github.com/studioimaginaire/phue
+
+     https://mitny.github.io/articles/2018-11/PhilipsHue-control
+
+     http://www.bissolled.com/page.php?menu=0102  
   + 텔레그램 관련 참고
