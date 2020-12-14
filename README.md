@@ -56,15 +56,25 @@
     ▶ 식물 생장 도움 : 640nm~700nm 파장의 빛 -> 660nm 적색 빛
    
   c. 텔레그램 서비스 
+  
 # 프로젝트 결과
+![시작화면수정](https://user-images.githubusercontent.com/71261685/102105424-c0657300-3e72-11eb-8335-fc694e96bb15.jpg)
 
   a. 토양 수분 부족 시점 알림 서비스
   
+  ![토양화면](https://user-images.githubusercontent.com/71261685/102107672-53071180-3e75-11eb-9433-33a975d0efd0.jpg)
+
+  
   b. 식물 생장용 LED 예약 서비스
   
+  ![LED화면1](https://user-images.githubusercontent.com/71261685/102108552-6bc3f700-3e76-11eb-8f17-aa5d0a47ec3a.jpg)
+
+  ![LED화면2](https://user-images.githubusercontent.com/71261685/102108241-04a64280-3e76-11eb-854d-edf329885d5f.jpg)
+
   ＊ 프로젝트 전체 설계 모습 *
   
-   ![최종화면수정](https://user-images.githubusercontent.com/71261685/102105267-8dbb7a80-3e72-11eb-85dd-c9f65099e1ec.jpg)
+  ![최종화면수정](https://user-images.githubusercontent.com/71261685/102105267-8dbb7a80-3e72-11eb-85dd-c9f65099e1ec.jpg)
+
 # 참고 사이트   
   
   + 토양 관련 참고
