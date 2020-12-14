@@ -108,6 +108,8 @@ def led(update: Update, context: CallbackContext) -> None:
 
     data_off = {'on' : False}
     b.create_schedule('Led off', finish_time, 1, data_off, 'Plant Led Off')
+    
+    update.message.reply_text('예약이 완료되었습니다!')
 
 def h_t_u(update: Update, context:CallbackContext) -> None:
     update.message.reply_text('# 토양 수분 부족 알림'+'\n'+'형식 : /water')
