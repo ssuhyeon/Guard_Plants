@@ -23,6 +23,28 @@
         3. 수분량이 임계치 이상에 도달했을 경우 텔레그램 메시지 중단
   
   b. 식물 생장용 LED 예약 서비스 
+        
+        1. LED 실제 작동 부분 설계 :  Hue API 활용 
+        
+        2. LED 제어 : 라즈베리파이와 Hue 브릿지와의 연결과 Hue 브릿지와 LED와의 Zigbee 통신 이용
+   
+   ![제어](https://user-images.githubusercontent.com/71261685/102054760-35ae5500-3e2d-11eb-8336-d41d3c5b42a9.png)
+        
+        3. LED 예약 및 설정 : 텔레그램 메시지를 통해 LED on/off 시간 예약 및 빛/색 조절 가능
+
+        4. LED 예약 및 설정 상태 확인 : 같은 네트워크 상에서 작동되는 Hue 어플 이용
+        
+        # 개발 가이드 
+	       1) 네트워크 환경 조성 : 
+   		무선 공유기(Wi-Fi라우터)에 연결되어야 할 항목
+                  - 필립스 hue 전용 브릿지 (랜선 사용)
+                  - 라즈베리파이 (랜선 사용)
+                  - 핸드폰 필립스 hue 어플 (Wi-Fi 연결)
+	       2) 필립스 hue 어플을 통해 Bridge IP 확인
+	       3) python phue 모듈 설치 
+		$ sudo pip3 install phue
+		$ git clone https://github.com/studioimaginaire/phue.git
+
    
   c. 텔레그램 서비스 
 # 프로젝트 결과
