@@ -45,14 +45,15 @@
 		$ sudo pip3 install phue
 		$ git clone https://github.com/studioimaginaire/phue.git
 	
+	
 	+ 식물 생장용 LED : 빛의 파장에 따른 식물의 생리 반응
+   
    ![생장11](https://user-images.githubusercontent.com/71261685/102054935-76a66980-3e2d-11eb-81cf-ae814975cc77.png)
    
    ![파장](https://user-images.githubusercontent.com/71261685/102054927-7312e280-3e2d-11eb-9e35-1e6f11158f43.png)
-   
-   ▶ 식물 광합성 도움 : 400nm~500nm 파장의 빛 -> 450nm 청색 빛 
-   
-   ▶ 식물 생장 도움 : 640nm~700nm 파장의 빛 -> 660nm 적색 빛
+     
+     ▶ 식물 광합성 도움 : 400nm~500nm 파장의 빛 -> 450nm 청색 빛 
+     ▶ 식물 생장 도움 : 640nm~700nm 파장의 빛 -> 660nm 적색 빛
    
   c. 텔레그램 서비스 
 # 프로젝트 결과
