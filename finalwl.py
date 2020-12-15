@@ -72,6 +72,7 @@ def water(update: Update, context: CallbackContext) -> None:
                 update.message.reply_text('WaterLack!!!!')
             else:
                 print('Water Value : {0}'.format(hum))
+                update.message.reply_text('수분이 충분합니다 :)')
                 break
             time.sleep(3)
     finally:
