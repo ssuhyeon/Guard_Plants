@@ -17,13 +17,13 @@
 	
 ＃개발방법
 
- ▶ 준비물
-     
-  ![준비물](https://user-images.githubusercontent.com/71261685/102014375-f0d8de80-3d98-11eb-8f63-3813fd9648b7.JPG)
-  
- ▶ 구성도
-       
-  ![구성도](https://user-images.githubusercontent.com/71261685/102014371-ed455780-3d98-11eb-902c-fc0ac04124fb.JPG)
+    ▶ 준비물
+
+ ![준비물](https://user-images.githubusercontent.com/71261685/102209362-fc044980-3f13-11eb-8320-ce2bf75c675d.JPG)
+    
+    ▶ 구성도
+    
+ ![구성도](https://user-images.githubusercontent.com/71261685/102209184-bfd0e900-3f13-11eb-94f1-b2974da669e7.JPG)
 
 ## 서비스
   
