@@ -23,7 +23,7 @@
     
     ▶ 구성도
     
- ![구성도](https://user-images.githubusercontent.com/71261685/102209184-bfd0e900-3f13-11eb-94f1-b2974da669e7.JPG)
+ ![구성도](https://user-images.githubusercontent.com/71261685/102210026-007d3200-3f15-11eb-9d85-672e5f2c1c43.jpg)
 
 ## 서비스
   
@@ -97,15 +97,28 @@
   
   + 토양 관련 참고
   
+     ↓ 센서 연결 회로도
+     
      https://www.techcoil.com/blog/how-to-read-soil-moisture-level-with-raspberry-pi-and-a-yl-69-fc-28-moisture-sensor/
 
+     ↓ 토양 수분 센서 연결
+     
      https://m.blog.naver.com/PostView.nhn?blogId=simjk98&logNo=221545072180&proxyReferer=https :%2F%2Fwww.google.com%2F
   + LED 관련 참고
-  
+    
+     ↓ API 활용
+     
      https://github.com/studioimaginaire/phue
 
+     ↓ 휴 전구 제어
+     
      https://mitny.github.io/articles/2018-11/PhilipsHue-control
-
+     
+     ↓ 식물 관련 정보
+     
      http://www.bissolled.com/page.php?menu=0102  
   + 텔레그램 관련 참고
-     https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/timerbot.py
+  
+     ↓ 텔레그램 활용
+     
+    https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/timerbot.py
