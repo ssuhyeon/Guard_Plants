@@ -4,13 +4,26 @@
 김석진, 강성훈, 김수진, 정수현
 
 # 프로젝트 정보
+
 ## 개요
-＃주제 선정 이유
-        
+
+＃주제
+
+실패 없이 실내에서 식물 키우기 
+	
 ＃개발목표
 
+식물에게 필요한 적절한 수분과 빛을 센서와 LED를 통해 관리하는 알림 및 예약 시스템
+	
 ＃개발방법
 
+ ▶ 준비물
+     
+  ![준비물](https://user-images.githubusercontent.com/71261685/102014375-f0d8de80-3d98-11eb-8f63-3813fd9648b7.JPG)
+  
+ ▶ 구성도
+       
+  ![구성도](https://user-images.githubusercontent.com/71261685/102014371-ed455780-3d98-11eb-902c-fc0ac04124fb.JPG)
 
 ## 서비스
   
@@ -78,7 +91,7 @@
 # 참고 사이트   
   
   + 토양 관련 참고
-  
+  	
   + LED 관련 참고
   
      https://github.com/studioimaginaire/phue
