@@ -14,16 +14,22 @@
 ＃개발목표
 
 식물에게 필요한 적절한 수분과 빛을 센서와 LED를 통해 관리하는 알림 및 예약 시스템
+
+
+
+
+
+
 	
 ＃개발방법
 
     ▶ 준비물
 
- ![준비물](https://user-images.githubusercontent.com/71261685/102209362-fc044980-3f13-11eb-8320-ce2bf75c675d.JPG)
+ ![준비물](https://user-images.githubusercontent.com/71227405/102219187-79cf5180-3f22-11eb-9e80-729ca8844e33.jpg)
     
     ▶ 구성도
     
- ![구성도](https://user-images.githubusercontent.com/71261685/102210026-007d3200-3f15-11eb-9d85-672e5f2c1c43.jpg)
+ ![구성도](https://user-images.githubusercontent.com/71227405/102219193-7b007e80-3f22-11eb-9783-df3cf9f17115.png)
 
 ## 서비스
   
