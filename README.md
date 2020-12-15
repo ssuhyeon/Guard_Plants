@@ -99,9 +99,14 @@
 
   ![LED_onoff](https://user-images.githubusercontent.com/71227405/102194236-690de400-3f00-11eb-9e71-7bfeb758911c.jpg)
 
-  ＊ 프로젝트 전체 설계 모습 *
+  ＊ 프로젝트 전체 설계 모습 ＊
   
   ![total](https://user-images.githubusercontent.com/71227405/102194235-690de400-3f00-11eb-96a2-7d8e5f91cd10.jpg)
+  
+  ＊ 최종 시연 영상 ＊
+  
+   https://drive.google.com/file/d/1swB90X_rJGA2vkAlVLzDL2DI6HNE1svu/view?usp=sharing
+  
 
 # 참고 사이트   
   
