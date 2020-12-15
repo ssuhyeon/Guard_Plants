@@ -87,6 +87,10 @@
   a. 토양 수분 부족 시점 알림 서비스
   
   ![tele_putty](https://user-images.githubusercontent.com/71227405/102194232-68754d80-3f00-11eb-86a7-9aaecbf37f6e.jpg)
+  
+  <추가 수정사항>
+  
+  ![추가](https://user-images.githubusercontent.com/71227405/102239613-64feb800-3f3a-11eb-88b2-af40f74e8a62.jpg)
 
   
   b. 식물 생장용 LED 예약 서비스
