@@ -96,7 +96,10 @@
 # 참고 사이트   
   
   + 토양 관련 참고
-  	
+  
+     https://www.techcoil.com/blog/how-to-read-soil-moisture-level-with-raspberry-pi-and-a-yl-69-fc-28-moisture-sensor/
+
+     https://m.blog.naver.com/PostView.nhn?blogId=simjk98&logNo=221545072180&proxyReferer=https :%2F%2Fwww.google.com%2F
   + LED 관련 참고
   
      https://github.com/studioimaginaire/phue
@@ -105,3 +108,4 @@
 
      http://www.bissolled.com/page.php?menu=0102  
   + 텔레그램 관련 참고
+     https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/timerbot.py
