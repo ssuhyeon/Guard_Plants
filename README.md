@@ -70,6 +70,11 @@
    
   c. 텔레그램 서비스 
   
+  	1. 텔레그램 첫 시작 : /start 
+
+   	2. 텔레그램 가이드 : /help 
+      	- 토양 수분 부족 시점 알림 서비스와 식물 생장용 LED 예약 서비스에 대한 텔레그램 사용법을 알 수 있음
+  
 # 프로젝트 결과
 ![tele_start](https://user-images.githubusercontent.com/71227405/102194233-68754d80-3f00-11eb-889a-f9ca1f7a550a.jpg)
 
